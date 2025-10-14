@@ -4,6 +4,9 @@
   Criei essa Landing Page para minha empresa, dessa forma eu conseguiria praticar programação e criar um portifólio.
 </p>
 
+Disponível em: https://chemiria-web.github.io/
+
+Ainda pendente de atualizações
 
 
 ##  Tecnologias
